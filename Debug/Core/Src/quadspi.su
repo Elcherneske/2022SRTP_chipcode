@@ -1,0 +1,7 @@
+../Core/Src/quadspi.c:30:9:QSPI_Wait_Flag	32	static
+../Core/Src/quadspi.c:46:6:MX_QUADSPI_Init	24	static,ignoring_inline_asm
+../Core/Src/quadspi.c:75:6:HAL_QSPI_MspInit	240	static
+../Core/Src/quadspi.c:142:6:HAL_QSPI_MspDeInit	16	static
+../Core/Src/quadspi.c:183:6:QSPI_Send_CMD	72	static
+../Core/Src/quadspi.c:240:9:QSPI_Receive	16	static
+../Core/Src/quadspi.c:252:9:QSPI_Transmit	16	static

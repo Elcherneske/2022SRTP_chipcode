@@ -1,0 +1,15 @@
+../Core/Src/norflash.c:15:6:NORFLASH_Init	16	static
+../Core/Src/norflash.c:29:6:NORFLASH_Qspi_Enable	16	static
+../Core/Src/norflash.c:44:6:NORFLASH_Qspi_Disable	8	static
+../Core/Src/norflash.c:67:9:NORFLASH_ReadSR	24	static
+../Core/Src/norflash.c:92:6:NORFLASH_Write_SR	24	static
+../Core/Src/norflash.c:117:6:NORFLASH_Write_Enable	8	static
+../Core/Src/norflash.c:125:6:NORFLASH_Write_Disable	8	static
+../Core/Src/norflash.c:138:10:NORFLASH_ReadID	16	static
+../Core/Src/norflash.c:154:6:NORFLASH_Read	24	static
+../Core/Src/norflash.c:166:6:NORFLASH_Write_Page	24	static
+../Core/Src/norflash.c:182:6:NORFLASH_Write_NoCheck	32	static
+../Core/Src/norflash.c:210:6:NORFLASH_Write	40	static
+../Core/Src/norflash.c:256:6:NORFLASH_Erase_Chip	8	static
+../Core/Src/norflash.c:267:6:NORFLASH_Erase_Sector	16	static
+../Core/Src/norflash.c:278:6:NORFLASH_Wait_Busy	8	static

@@ -1,0 +1,13 @@
+../Core/Src/io_data_deal.c:40:6:config_read	24	static
+../Core/Src/io_data_deal.c:46:6:config_write	24	static
+../Core/Src/io_data_deal.c:52:6:config_init	16	static
+../Core/Src/io_data_deal.c:119:6:io_data_avail_check	8	static
+../Core/Src/io_data_deal.c:127:6:m_io_check	8	static
+../Core/Src/io_data_deal.c:134:6:sys_buf_init	8	static
+../Core/Src/io_data_deal.c:149:6:io_data_deal	2064	static
+../Core/Src/io_data_deal.c:171:6:sensor_data_print	1136	static
+../Core/Src/io_data_deal.c:188:6:adc_data_store_quick	32	static
+../Core/Src/io_data_deal.c:217:6:old_adc_data_store_quick	104	static
+../Core/Src/io_data_deal.c:249:6:sensor_data_usb_send	16	static
+../Core/Src/io_data_deal.c:281:6:sensor_data_get	4	static
+../Core/Src/io_data_deal.c:289:6:modbus_hold_reg_data_compare	16	static

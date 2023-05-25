@@ -1,0 +1,14 @@
+../Core/Src/circular_buffer.c:16:6:ring_8_reset	16	static
+../Core/Src/circular_buffer.c:22:14:ring_8_sz	16	static
+../Core/Src/circular_buffer.c:28:14:ring_8_remain	16	static
+../Core/Src/circular_buffer.c:34:9:ring_8_is_full	16	static
+../Core/Src/circular_buffer.c:43:9:ring_8_is_empty	16	static
+../Core/Src/circular_buffer.c:52:9:ring_8_push_n	32	static
+../Core/Src/circular_buffer.c:70:9:ring_8_pop_n	32	static
+../Core/Src/circular_buffer.c:89:6:ring_8_reset_large	16	static
+../Core/Src/circular_buffer.c:95:14:ring_8_sz_large	16	static
+../Core/Src/circular_buffer.c:101:14:ring_8_remain_large	16	static
+../Core/Src/circular_buffer.c:107:9:ring_8_is_full_large	16	static
+../Core/Src/circular_buffer.c:116:9:ring_8_is_empty_large	16	static
+../Core/Src/circular_buffer.c:125:9:ring_8_push_n_large	32	static
+../Core/Src/circular_buffer.c:143:9:ring_8_pop_n_large	32	static

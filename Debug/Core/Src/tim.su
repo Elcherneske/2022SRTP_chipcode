@@ -1,0 +1,12 @@
+../Core/Src/tim.c:45:6:TIM3_Init	16	static
+../Core/Src/tim.c:61:6:TIM3_PWM_Init	16	static
+../Core/Src/tim.c:86:6:HAL_TIM_PWM_MspInit	48	static
+../Core/Src/tim.c:100:6:HAL_TIM_Base_MspInit	32	static
+../Core/Src/tim.c:139:6:HAL_TIM_Base_MspDeInit	16	static
+../Core/Src/tim.c:167:6:TIM3_IRQHandler	8	static
+../Core/Src/tim.c:173:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/tim.c:188:6:TIM_SetTIM3Compare4	16	static
+../Core/Src/tim.c:194:6:MX_TIM4_Init	8	static
+../Core/Src/tim.c:208:6:TIM4_IRQHandler	8	static
+../Core/Src/tim.c:214:6:MX_TIM5_Init	8	static
+../Core/Src/tim.c:233:6:TIM5_IRQHandler	8	static

@@ -1,0 +1,9 @@
+../Core/Src/protocol_modbus_slave.c:17:6:modbus_data_response	16	static
+../Core/Src/protocol_modbus_slave.c:80:10:modbus_crc16	24	static
+../Core/Src/protocol_modbus_slave.c:94:6:modbus_frame_analysis_data_rst	16	static
+../Core/Src/protocol_modbus_slave.c:102:6:protocol_modbus_rtu_analog_init	8	static
+../Core/Src/protocol_modbus_slave.c:108:6:hold_registers_read_deal	320	static
+../Core/Src/protocol_modbus_slave.c:137:6:hold_registers_write_single_deal	296	static
+../Core/Src/protocol_modbus_slave.c:157:6:hold_registers_write_multi_deal	576	static
+../Core/Src/protocol_modbus_slave.c:188:6:modbus_frame_deal	32	static
+../Core/Src/protocol_modbus_slave.c:217:6:modbus_data_deal	24	static
